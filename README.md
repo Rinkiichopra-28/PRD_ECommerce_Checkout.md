@@ -6,7 +6,7 @@
 
 | Document Details | Info |
 | :--- | :--- |
-| **Product Manager** | Rinki Chopra |
+| **Project Owner** | Rinki Chopra |
 | **Target Launch** | Q3 2026 |
 | **Primary Goal** | Reduce Cart Abandonment Rate by 15% |
 | **Tech Stack** | React Native, Node.js, Stripe API, Mixpanel |
